@@ -1,0 +1,23 @@
+
+
+http://localhost:39901/EmployeeService.svc/PutEmployee
+
+Content-Type: application/json;charset=utf-8
+
+
+{
+    "EmployeeID": 1,
+    "Address": "507 - 20th Ave. E.\r\nApt. 2A",
+    "BirthDate": "/Date(-664732800000-0800)/",
+    "City": "Seattle",
+    "Country": "USA",
+    "Extension": "5467",
+    "FirstName": "Nancy",
+    "HireDate": "/Date(704703600000-0700)/",
+    "HomePhone": "(206) 555-9857",
+    "LastName": "Davolio",
+    "Notes": "Education includes a BA in psychology from Colorado State University in 1970.",
+    "PostalCode": "98122",
+    "Region": "WA",
+    "Title": "Sales Representative"
+}
